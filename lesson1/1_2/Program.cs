@@ -8,4 +8,3 @@ if (a * a == b)
 Console.WriteLine("Да");
 else 
 Console.WriteLine("Нет");
-
